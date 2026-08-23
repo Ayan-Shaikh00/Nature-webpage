@@ -3,6 +3,7 @@ A modern and responsive webpage built using HTML and CSS, featuring a clean layo
 # 🌿 Nature Webpage
 
 A modern nature-themed webpage built using **HTML and CSS**, focused on clean design, responsive layouts, typography, spacing, and visually appealing sections.
+<img width="1919" height="960" alt="Screenshot 2026-08-23 224902" src="https://github.com/user-attachments/assets/08e28dec-d50b-4fc0-9fe2-9a9eff8fc5ab" />
 
 ## 🔗 Live Demo
 
